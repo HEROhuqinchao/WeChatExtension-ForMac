@@ -238,7 +238,6 @@
 		18D4C34C24236180006A20E2 /* NSObject+ThemeHook.m in Sources */ = {isa = PBXBuildFile; fileRef = 18D4C34A24236180006A20E2 /* NSObject+ThemeHook.m */; };
 		18D5D5F0268F693B00B26DD0 /* select_pre.png in Resources */ = {isa = PBXBuildFile; fileRef = 18D5D5EE268F693B00B26DD0 /* select_pre.png */; };
 		18D5D5F1268F693B00B26DD0 /* select_nor.png in Resources */ = {isa = PBXBuildFile; fileRef = 18D5D5EF268F693B00B26DD0 /* select_nor.png */; };
-		18D5D5F3268F7E2000B26DD0 /* placeholder.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18D5D5F2268F7E2000B26DD0 /* placeholder.jpg */; };
 		18D5D61226920CD800B26DD0 /* YMJNWCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 18D5D5F526920CD700B26DD0 /* YMJNWCollectionViewCell.m */; };
 		18D5D61326920CD800B26DD0 /* YMJNWCollectionViewDocumentView.m in Sources */ = {isa = PBXBuildFile; fileRef = 18D5D5F626920CD700B26DD0 /* YMJNWCollectionViewDocumentView.m */; };
 		18D5D61426920CD800B26DD0 /* YMJNWScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = 18D5D5F726920CD700B26DD0 /* YMJNWScrollView.h */; };
@@ -308,6 +307,7 @@
 		96B578BF2360AA8A00F3F66C /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 96B578C12360AA8A00F3F66C /* Localizable.strings */; };
 		D79D23592449EF5D00C391E4 /* GVUserDefaults.h in Headers */ = {isa = PBXBuildFile; fileRef = D79D23572449EF5C00C391E4 /* GVUserDefaults.h */; };
 		D79D235A2449EF5D00C391E4 /* GVUserDefaults.m in Sources */ = {isa = PBXBuildFile; fileRef = D79D23582449EF5C00C391E4 /* GVUserDefaults.m */; };
+		DA1CBAF226BBCB19000F6ECB /* placeholder.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA1CBAF126BBCB19000F6ECB /* placeholder.jpg */; };
 		DC069F4124B5D23A00256A03 /* VAutoForwardingWindowController.h in Headers */ = {isa = PBXBuildFile; fileRef = DC069F3E24B5D23900256A03 /* VAutoForwardingWindowController.h */; };
 		DC069F4224B5D23A00256A03 /* VAutoForwardingWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = DC069F3F24B5D23A00256A03 /* VAutoForwardingWindowController.m */; };
 		DC069F4324B5D23A00256A03 /* VAutoForwardingWindowController.xib in Resources */ = {isa = PBXBuildFile; fileRef = DC069F4024B5D23A00256A03 /* VAutoForwardingWindowController.xib */; };
@@ -564,7 +564,6 @@
 		18D4C34A24236180006A20E2 /* NSObject+ThemeHook.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+ThemeHook.m"; sourceTree = "<group>"; };
 		18D5D5EE268F693B00B26DD0 /* select_pre.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = select_pre.png; sourceTree = "<group>"; };
 		18D5D5EF268F693B00B26DD0 /* select_nor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = select_nor.png; sourceTree = "<group>"; };
-		18D5D5F2268F7E2000B26DD0 /* placeholder.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = placeholder.jpg; path = ../../../../../WeChatLuxuries/WeChatExtension/Assets/placeholder.jpg; sourceTree = "<group>"; };
 		18D5D5F526920CD700B26DD0 /* YMJNWCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YMJNWCollectionViewCell.m; sourceTree = "<group>"; };
 		18D5D5F626920CD700B26DD0 /* YMJNWCollectionViewDocumentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YMJNWCollectionViewDocumentView.m; sourceTree = "<group>"; };
 		18D5D5F726920CD700B26DD0 /* YMJNWScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YMJNWScrollView.h; sourceTree = "<group>"; };
@@ -641,6 +640,7 @@
 		96D8D0992360BC6E0025BAD6 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/TKRemoteControlWindowController.strings"; sourceTree = "<group>"; };
 		D79D23572449EF5C00C391E4 /* GVUserDefaults.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GVUserDefaults.h; sourceTree = "<group>"; };
 		D79D23582449EF5C00C391E4 /* GVUserDefaults.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GVUserDefaults.m; sourceTree = "<group>"; };
+		DA1CBAF126BBCB19000F6ECB /* placeholder.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = placeholder.jpg; sourceTree = "<group>"; };
 		DC069F3E24B5D23900256A03 /* VAutoForwardingWindowController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VAutoForwardingWindowController.h; sourceTree = "<group>"; };
 		DC069F3F24B5D23A00256A03 /* VAutoForwardingWindowController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VAutoForwardingWindowController.m; sourceTree = "<group>"; };
 		DC069F4024B5D23A00256A03 /* VAutoForwardingWindowController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = VAutoForwardingWindowController.xib; sourceTree = "<group>"; };
@@ -1269,7 +1269,7 @@
 		18FDE6D02591CEFF00BAE497 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				18D5D5F2268F7E2000B26DD0 /* placeholder.jpg */,
+				DA1CBAF126BBCB19000F6ECB /* placeholder.jpg */,
 				18D5D5EF268F693B00B26DD0 /* select_nor.png */,
 				18D5D5EE268F693B00B26DD0 /* select_pre.png */,
 				18F8428925B0AEB4000CC3B8 /* WeChatIcon_128.png */,
@@ -1549,7 +1549,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				18FDE6DC2591CEFF00BAE497 /* arrow_forward.png in Resources */,
-				18D5D5F3268F7E2000B26DD0 /* placeholder.jpg in Resources */,
 				18FDE6DF2591CEFF00BAE497 /* arrow_icon_highlight.png in Resources */,
 				18FDE6E22591D55400BAE497 /* Chat-Inspector-Mute-we.png in Resources */,
 				18D8B18E227EFEC3007AE9EC /* TKRemoteControlScript.scpt in Resources */,
@@ -1568,6 +1567,7 @@
 				18EF56B9248668CD00D7BC26 /* YMStrangerCheckWindowController.xib in Resources */,
 				18D5D5F1268F693B00B26DD0 /* select_nor.png in Resources */,
 				1828B9AA23BA319E008EC8E9 /* TKAboutWindowController.xib in Resources */,
+				DA1CBAF226BBCB19000F6ECB /* placeholder.jpg in Resources */,
 				182EDB7F25484D210035CD75 /* shieldwords.txt in Resources */,
 				188A65FB2272ACBA0096663E /* TKAutoReplyWindowController.xib in Resources */,
 				18C5A34025922B65006F12F0 /* barbuttonicon_more_white.png in Resources */,
@@ -1946,7 +1946,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = GT8424SXJS;
+				DEVELOPMENT_TEAM = JV9837GRRV;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -1980,7 +1980,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = GT8424SXJS;
+				DEVELOPMENT_TEAM = JV9837GRRV;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -2013,7 +2013,7 @@
 				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 2U23P5CPX2;
+				DEVELOPMENT_TEAM = JV9837GRRV;
 				INFOPLIST_FILE = WeChatExtensionTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -2031,7 +2031,7 @@
 				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 2U23P5CPX2;
+				DEVELOPMENT_TEAM = JV9837GRRV;
 				INFOPLIST_FILE = WeChatExtensionTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
